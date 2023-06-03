@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussema khlifi</h1>
 <h3 align="center">I am a fullstack web developer with strong problem solving skills and a proven track record of creating and designing web in a test driven environment</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D03AQF0-oZjjl0MUg/profile-displayphoto-shrink_800_800/0/1618584514248?e=1691020800&v=beta&t=pWSL41QsaCHHqS5LMXdgpt_NOmkGPWLzZdw5-NJzznY" />
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/user/115/397e22284596115.5faebd3b5edc8.png" />
 
 <p align="left"> <a href="https://twitter.com/oussemakhlifi6" target="blank"><img src="https://img.shields.io/twitter/follow/oussemakhlifi6?logo=twitter&style=for-the-badge" alt="oussemakhlifi6" /></a> </p>
 
