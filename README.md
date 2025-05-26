@@ -1,22 +1,48 @@
+<h1 align="center">Hi 👋, I'm Oussema Khlifi</h1>
+<h3 align="center">Full-Stack Web Developer | SaaS Architect | DevOps Enthusiast</h3>
 
-
-<h1 align="center">Hi 👋, I'm Oussema khlifi</h1>
-<h3 align="center">I am a fullstack web developer with strong problem solving skills and a proven track record of creating and designing web in a test driven environment</h3>
-
-<p align="left"> <a href="https://twitter.com/oussemakhlifi6" target="blank"><img src="https://img.shields.io/twitter/follow/oussemakhlifi6?logo=twitter&style=for-the-badge" alt="oussemakhlifi6" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/oussemakhlifi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussemakhlifi6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oussema-khlifi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oussema-khlifi/" height="30" width="40" /></a>
-<a href="https://instagram.com/oussemakhlifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussemakhlifi" height="30" width="40" /></a>
-<a href="https://www.behance.net/oussemakhlifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="oussemakhlifi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/oussemakhlifi6" target="_blank"><img src="https://img.shields.io/twitter/follow/oussemakhlifi6?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/oussema-khlifi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://behance.net/oussemakhlifi" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://github.com/oussemakh1" target="_blank"><img src="https://img.shields.io/github/followers/oussemakh1?label=Follow&style=for-the-badge" alt="GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussemakh1&show_icons=true&locale=en&layout=compact" alt="oussemakh1" /></p>
+💼 **About Me**  
+I am a results-driven full-stack web developer with extensive experience building scalable SaaS platforms and microservices using **Laravel**, **React**, **Vue**, and **Docker**. I lead teams, architect complex systems, and bring high-quality solutions to life—on time and within scope.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussemakh1&show_icons=true&locale=en" alt="oussemakh1" /></p>
+---
 
+🧠 **Skills Snapshot**  
+- **Languages:** PHP, JavaScript, TypeScript, Go  
+- **Frameworks:** Laravel, Symfony, Livewire, Lumen, React, Vue.js  
+- **Database:** MySQL, PostgreSQL, Redis  
+- **DevOps:** Docker, Docker Compose, CircleCI, Git  
+- **Testing:** PHPUnit, Cypress, TDD  
+- **Design & UX:** Figma, Adobe XD, UI/UX principles  
+- **Tools:** Postman, Firebase, Chart.js  
+- **Other:** Agile/Scrum, CI/CD, SaaS Architecture
+
+---
+
+🧩 **Notable Projects**  
+- 🚀 **SaaS Platform @ Binverse** – Architected and led the development of a full-scale SaaS product with automated testing and CI/CD pipelines.  
+- 🧱 **React CRUD Library** – Internal productivity tool that auto-generates tables & modals; CRUD ops in under a minute.  
+- 🛠️ **Custom PHP Framework** – CLI-based tool to scaffold CRUD applications in seconds for small business use cases.
+
+---
+
+📈 **GitHub Stats**  
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakh1&layout=compact&langs_count=8&theme=dracula" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussemakh1&show_icons=true&theme=dracula&count_private=true" />
+</p>
+
+---
+
+📫 **Contact Me**  
+- 📧 khoussemaa@gmail.com  
