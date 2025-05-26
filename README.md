@@ -27,13 +27,6 @@ I am a results-driven full-stack web developer with extensive experience buildin
 
 ---
 
-🧩 **Notable Projects**  
-- 🚀 **SaaS Platform @ Binverse** – Architected and led the development of a full-scale SaaS product with automated testing and CI/CD pipelines.  
-- 🧱 **React CRUD Library** – Internal productivity tool that auto-generates tables & modals; CRUD ops in under a minute.  
-- 🛠️ **Custom PHP Framework** – CLI-based tool to scaffold CRUD applications in seconds for small business use cases.
-
----
-
 📈 **GitHub Stats**  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakh1&layout=compact&langs_count=8&theme=dracula" />
